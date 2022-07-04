@@ -1,6 +1,6 @@
 # HomeSmart-Landing-Page
 
-[![Generic badge](https://img.shields.io/badge/MadeWith-vanillajs|TailwindCSS-<COLOR>.svg)](https://github.com/Alexie7777/HomeSmart-Landing-Page)
+[![Generic badge](https://img.shields.io/badge/MadeWith-vanillajs|TailwindCSS|Vite-<COLOR>.svg)](https://github.com/Alexie7777/HomeSmart-Landing-Page)
 
 ## 📖 Usage
 Install deps:

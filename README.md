@@ -1,7 +1,5 @@
 # HomeSmart-Landing-Page
-HomeSmart-Landing-Page
 
-# Backstage Managment System
 [![Generic badge](https://img.shields.io/badge/MadeWith-vanillajs|TailwindCSS-<COLOR>.svg)](https://github.com/Alexie7777/HomeSmart-Landing-Page)
 
 ## 📖 Usage
